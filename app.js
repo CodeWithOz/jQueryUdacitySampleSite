@@ -17,4 +17,4 @@ var showImg = function() {
   var img = $('img').attr('src', 'https://timedotcom.files.wordpress.com/2017/01/cute-animal-tweet-off-zoo.jpg?quality=85');
   console.log(img);
 };
-$();
+$(showImg);
